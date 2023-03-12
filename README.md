@@ -14,15 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">
-        Здравствуйте <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt=""
-/></h1>
-<h2 align="center">
-Меня зовут Дмитрий Михеев
-</h2>
+<h1 align="center">Здравствуйте <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt=""</h1>
+        
+<h2 align="center">Меня зовут Дмитрий Михеев</h2>
 
-
-<h3 align="center">Java разработчик</h3>
+<h3 align="center">Я Java разработчик</h3>
 
 ### Мои проекты:
 
