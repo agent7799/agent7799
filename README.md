@@ -18,12 +18,15 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-        Здравствуйте <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt=""
+        Добро пожаловать на мою страницу в GitHub <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt=""
 /></h1>
-<h2 align="center">
-Меня зовут Дмитрий Михеев
-</h2>
-<h3 align="center"> я Java разработчик</h3>
+
+[//]: # (<h2 align="center">)
+
+[//]: # (Я Дмитрий Михеев)
+
+[//]: # (</h2>)
+[//]: # (<h3 align="center">Java разработчик</h3>)
 
 <h2 align="center">Мои проекты:</h2>
 
