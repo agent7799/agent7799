@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   - [Разработка мобильных приложений с нуля](https://github.com/agent7799/agent7799/blob/main/certificates/certificate%20android.pdf)
   - [Введение в SQL и работу с базой данных](https://github.com/agent7799/agent7799/blob/main/certificates/certificate%20sql.pdf)
   - [Полезные навыки работы в Excel, о которых не знают профи](https://github.com/agent7799/agent7799/blob/main/certificates/Excell%20certificate%20Netology.pdf)
-  - [Первые шаги в JavaScript: создаём сайт и приложение](https://github.com/agent7799/agent7799/blob/main/certificates/certificate%20HTML%20CSS.pdf)
+  - [Первые шаги в JavaScript: создаём сайт и приложение](https://github.com/agent7799/agent7799/blob/main/certificates/certificate%20js.pdf)
 - #### GeekBrains
   - [ Git. Базовый курс](https://github.com/agent7799/agent7799/blob/main/certificates/certificate%20GIT%20.pdf)
   - [Java. Быстрый старт](https://github.com/agent7799/agent7799/blob/main/certificates/Certificate%20GB%20Java%20fast%20start.pdf)
